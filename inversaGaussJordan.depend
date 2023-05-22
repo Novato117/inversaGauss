@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683818724 source:c:\users\ice\desktop\inversagaussjordan\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	<stdlib.h>
+
